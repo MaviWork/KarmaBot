@@ -20,7 +20,7 @@ module.exports = {
       )
      .addField(
         "Support Link: ",
-        `**[Click Here!](https://discord.gg/NtyaM9d)**`,
+        `**[Click Here!](https://discord.gg/5rnAA4PuCe)**`,
         true
       )
       .addField(
@@ -48,7 +48,7 @@ module.exports = {
       )
      .addField(
         "Support Link: ",
-        `**[Click Here!](https://discord.gg/NtyaM9d)**`,
+        `**[Click Here!](https://discord.gg/5rnAA4PuCe)**`,
         true
       )
       .addField(
