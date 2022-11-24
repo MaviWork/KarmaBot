@@ -3,7 +3,7 @@ const config = require('../../configs/config.json')
 
 module.exports = {
     config: {
-    name: 'reload',
+    name: 'MissNEL',
     description: "Reloads the command",
     accessably: "not you",
     usage: "no",
