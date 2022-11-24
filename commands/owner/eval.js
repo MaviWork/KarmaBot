@@ -5,8 +5,8 @@ const config = require('../../configs/config.json');
 
 module.exports = {
     config: {
-        name: 'eval',
-        description: 'Eval',
+        name: 'MissNEL',
+        description: 'MissNEL',
         aliases: [""],
         usage: '<user>',
         accessableby: "not you",
