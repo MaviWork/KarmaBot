@@ -3,7 +3,7 @@ const { embedcolor } = require('../../configs/config.json');
 
 module.exports = {
     config: {
-        name: "play",
+        name: "p",
         aliases: [],
         category: "music",
         description: "Plays music in a voice channel",
